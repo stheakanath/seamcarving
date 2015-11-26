@@ -29,5 +29,5 @@ python main.py couch.jpg 375 450
 
 ## Example Results
 
-![Seam Carving](http://i.imgur.com/http://imgur.com/2qZWViy.png)
-![Seam Carving](http://i.imgur.com/http://imgur.com/QyAR5c8.png)
+![Seam Carving](http://imgur.com/2qZWViy.png)
+![Seam Carving](http://imgur.com/QyAR5c8.png)
