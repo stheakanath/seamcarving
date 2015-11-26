@@ -1,5 +1,4 @@
 # Kuriakose Sony Theakanath
-# Project 4
 # Seam Carving
 
 import numpy as np
