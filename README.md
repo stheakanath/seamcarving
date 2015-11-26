@@ -26,3 +26,8 @@ python main.py <image name> <desired width> <desired height>
 ```
 python main.py couch.jpg 375 450
 ```
+
+## Example Results
+
+![Seam Carving](http://i.imgur.com/http://imgur.com/2qZWViy.png)
+![Seam Carving](http://i.imgur.com/http://imgur.com/QyAR5c8.png)
