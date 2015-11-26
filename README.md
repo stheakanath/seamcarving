@@ -24,7 +24,7 @@ python main.py <image name> <desired width> <desired height>
 ```
 ## Running on Example
 ```
-python main.py couch.jpg 375 450
+python main.py examples/couch.jpg 375 450
 ```
 
 ## Example Results
